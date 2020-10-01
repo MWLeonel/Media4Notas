@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\Media4Notas\Media4Notas\bin\Debug\netcoreapp3.1\Media4Notas.exe
+C:\Users\Max\Desktop\Media4Notas\Media4Notas\bin\Debug\netcoreapp3.1\Media4Notas.deps.json
+C:\Users\Max\Desktop\Media4Notas\Media4Notas\bin\Debug\netcoreapp3.1\Media4Notas.runtimeconfig.json
+C:\Users\Max\Desktop\Media4Notas\Media4Notas\bin\Debug\netcoreapp3.1\Media4Notas.runtimeconfig.dev.json
+C:\Users\Max\Desktop\Media4Notas\Media4Notas\bin\Debug\netcoreapp3.1\Media4Notas.dll
+C:\Users\Max\Desktop\Media4Notas\Media4Notas\bin\Debug\netcoreapp3.1\Media4Notas.pdb
+C:\Users\Max\Desktop\Media4Notas\Media4Notas\obj\Debug\netcoreapp3.1\Media4Notas.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\Media4Notas\Media4Notas\obj\Debug\netcoreapp3.1\Media4Notas.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Media4Notas\Media4Notas\obj\Debug\netcoreapp3.1\Media4Notas.AssemblyInfo.cs
+C:\Users\Max\Desktop\Media4Notas\Media4Notas\obj\Debug\netcoreapp3.1\Media4Notas.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Media4Notas\Media4Notas\obj\Debug\netcoreapp3.1\Media4Notas.dll
+C:\Users\Max\Desktop\Media4Notas\Media4Notas\obj\Debug\netcoreapp3.1\Media4Notas.pdb
+C:\Users\Max\Desktop\Media4Notas\Media4Notas\obj\Debug\netcoreapp3.1\Media4Notas.genruntimeconfig.cache
